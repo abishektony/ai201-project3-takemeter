@@ -1,6 +1,8 @@
 # ai201-project3-takemeter
 
 # TakeMeter: r/TrueFilm Discourse Classifier
+video link: https://1drv.ms/v/c/fffc94b08fe514b6/IQABQsMWQngpQr1VH_XCItcuAZEJ2dLvl0CUEHtBqlfvgXY?e=uDgeft 
+(No audio because of no mic but subs has been added)
 
 ## Community Overview & Intent
 r/TrueFilm is an online space dedicated to deep, analytical, and text-based cinematic discourse. It prioritizes artistic intent, film theory, and formal mechanics over box-office metrics or superficial movie rankings. 
